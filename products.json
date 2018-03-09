@@ -1,13 +1,10 @@
 [
   {
     "ProductCode" : "Dell XP",
-    "ProductDescription" : "Dell XP Laptop"
+    "ProductDesc" : "Dell XP Laptop"
   },
   {
     "ProductCode" : "Cisco Router XP",
-    "ProductDescription" : "Cisco XP Router"
+    "ProductDesc" : "Cisco XP Router"
   }
-
-
-
 ]
