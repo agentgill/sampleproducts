@@ -1,0 +1,14 @@
+[
+  {
+    "ProductCode" : "Dell XP",
+    "ProductDescription" : "Dell XP Laptop",
+    "ProductPrice" : "499.00"
+  },
+  {
+    "ProductCode" : "Cisco Router XP",
+    "ProductDescription" : "Cisco XP Router",
+    "ProductPrice" : "999.00"
+  }
+
+
+]
